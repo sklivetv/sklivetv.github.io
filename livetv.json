@@ -10,6 +10,13 @@
 {
 "channelname": "🔴Live IPL",
 "poster": "https://www.jagranimages.com/images/newimg/21082020/21_08_2020-ipl_logo_20650553.jpg",
+"language": "Hindi",
+"quality": "360",
+"playurl": "http://66.northerniptv.ca:8000/live/george/george123/201.m3u8"
+},
+{
+"channelname": "🔴Live IPL",
+"poster": "https://www.jagranimages.com/images/newimg/21082020/21_08_2020-ipl_logo_20650553.jpg",
 "language": "English",
 "quality": "360",
 "playurl": "http://tv.freecast123.com/tv/xaYIcV6v9K20190901/chunklist_w1971607858_tkaGxzZW5kdGltZT0xNjAwODM1NzAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9U0F5X2loTEFqaWtxaUxvRFF2OUhCa0pIVUpuWDQtZ0liM2MtUjFuWGppbz0=.m3u8"
@@ -43,3 +50,4 @@
 "playurl": "https://d3khboz9vw92xk.cloudfront.net/out/v1/5d9a11b840734a269fed2577ce82fe15/blacktie_1.m3u8"
 }
 ]}
+
