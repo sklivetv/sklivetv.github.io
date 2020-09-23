@@ -4,22 +4,8 @@
 "channelname": "🔴Live IPL",
 "poster": "https://www.jagranimages.com/images/newimg/21082020/21_08_2020-ipl_logo_20650553.jpg",
 "language": "Hindi",
-"quality": "360",
-"playurl": "http://tv.freecast123.com/tv/vFrxPgSFTD20190929/chunklist_w197562154_tkaGxzZW5kdGltZT0xNjAwODc0MTAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9YkZaeFRrODlDeXNZaEE0VmdVT1lGc0dqckVNWVhFa2FFbWV2YW9lMVFjdz0=.m3u8"
-},
-{
-"channelname": "🔴Live IPL",
-"poster": "https://www.jagranimages.com/images/newimg/21082020/21_08_2020-ipl_logo_20650553.jpg",
-"language": "English",
 "quality": "SD",
-"playurl": "https://d3khboz9vw92xk.cloudfront.net/out/v1/5d9a11b840734a269fed2577ce82fe15/blacktie_3.m3u8"
-},
-{
-"channelname": "🔴Live IPL",
-"poster": "https://www.jagranimages.com/images/newimg/21082020/21_08_2020-ipl_logo_20650553.jpg",
-"language": "English",
-"quality": "HD",
-"playurl": "https://d3khboz9vw92xk.cloudfront.net/out/v1/5d9a11b840734a269fed2577ce82fe15/blacktie_1.m3u8"
+"playurl": "http://52.172.211.30:7002/live/tej.m3u8"
 }
 ]}
 
