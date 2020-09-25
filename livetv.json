@@ -4,7 +4,42 @@
 "channelname": "🔴Live IPL",
 "poster": "https://www.jagranimages.com/images/newimg/21082020/21_08_2020-ipl_logo_20650553.jpg",
 "language": "English",
-"quality": "SD",
+"quality": "480P",
 "playurl": "http://aklivetv.com:8080/gazitv/tracks-v1a1/mono.m3u8"
+},
+{
+"channelname": "🔴Live IPL",
+"poster": "https://www.jagranimages.com/images/newimg/21082020/21_08_2020-ipl_logo_20650553.jpg",
+"language": "Hindi",
+"quality": "480P",
+"playurl": "https://serve151.r.worldssl.net/cricket/star1/chunks.m3u8"
+},
+{
+"channelname": "🔴Live IPL",
+"poster": "https://www.jagranimages.com/images/newimg/21082020/21_08_2020-ipl_logo_20650553.jpg",
+"language": "Hindi",
+"quality": "720P",
+"playurl": "http://104.42.33.107/live/index.m3u8"
+},
+{
+"channelname": "🔴Live IPL",
+"poster": "https://www.jagranimages.com/images/newimg/21082020/21_08_2020-ipl_logo_20650553.jpg",
+"language": "English",
+"quality": "720P",
+"playurl": "http://52.172.211.30:7002/live/tej.m3u8"
+},
+{
+"channelname": "🔴Live IPL",
+"poster": "https://www.jagranimages.com/images/newimg/21082020/21_08_2020-ipl_logo_20650553.jpg",
+"language": "English",
+"quality": "720P",
+"playurl": "http://46.166.148.101:8000/live/george/george123/201.m3u8"
+},
+{
+"channelname": "🔴Live IPL",
+"poster": "https://www.jagranimages.com/images/newimg/21082020/21_08_2020-ipl_logo_20650553.jpg",
+"language": "English",
+"quality": "720P",
+"playurl": "http://185.246.210.53:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token="
 }
 ]}
