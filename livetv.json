@@ -1,18 +1,11 @@
-{"notice":"Watch IPL 🔴Live Today 7:30PM",
-"channel":[
+{"notice":"Watch IPL 🔴Live",
+"channels":[
 {
 "channelname": "🔴Live IPL",
 "poster": "https://www.jagranimages.com/images/newimg/21082020/21_08_2020-ipl_logo_20650553.jpg",
 "language": "English",
 "quality": "480P",
 "playurl": "http://66.northerniptv.ca:8000/live/george/george123/74478.m3u8"
-},
-{
-"channelname": "🔴Live IPL",
-"poster": "https://www.jagranimages.com/images/newimg/21082020/21_08_2020-ipl_logo_20650553.jpg",
-"language": "English",
-"quality": "480P",
-"playurl": "https://prod-fastly-ap-south-1.video.periscope.tv/Transcoding/v1/hls/IkQU0izkv17TR-hkItvHJz9z_MdMgbL_vuPhp6vtBWeaklGnDpCqFo-6-RXt5Kz8u1gPGeY1YeDM4GQC12I1RQ/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/dynamic_hlsproducer.m3u8"
 },
 {
 "channelname": "🔴Live IPL",
