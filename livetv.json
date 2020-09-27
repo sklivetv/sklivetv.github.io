@@ -4,28 +4,7 @@
 "channelname": "🔴KXIP vs RR",
 "poster": "https://www.jagranimages.com/images/newimg/21082020/21_08_2020-ipl_logo_20650553.jpg",
 "language": "English",
-"quality": "480P",
-"playurl": "http://66.northerniptv.ca:8000/live/george/george123/74478.m3u8"
-},
-{
-"channelname": "🔴KXIP vs RR",
-"poster": "https://www.jagranimages.com/images/newimg/21082020/21_08_2020-ipl_logo_20650553.jpg",
-"language": "English",
-"quality": "Medium",
-"playurl": "http://212.47.252.54/hls/stream.m3u8"
-},
-{
-"channelname": "🔴KXIP vs RR",
-"poster": "https://www.jagranimages.com/images/newimg/21082020/21_08_2020-ipl_logo_20650553.jpg",
-"language": "English",
-"quality": "480P",
-"playurl": "http://aklivetv.com:8080/gazitv/tracks-v1a1/mono.m3u8"
-},
-{
-"channelname": "🔴KXIP vs RR",
-"poster": "https://www.jagranimages.com/images/newimg/21082020/21_08_2020-ipl_logo_20650553.jpg",
-"language": "English",
-"quality": "720P",
-"playurl": "http://46.166.148.101:8000/live/george/george123/201.m3u8"
+"quality": "SD",
+"playurl": "http://52.140.103.165:7002/live/ipl2020.m3u8"
 }
 ]}
