@@ -1,10 +1,10 @@
 {"notice":"Watch IPL 🔴Live",
 "channels":[
 {
-"channelname": "🔴KXIP vs RR",
+"channelname": "IPL 🔴Live",
 "poster": "https://www.jagranimages.com/images/newimg/21082020/21_08_2020-ipl_logo_20650553.jpg",
-"language": "Hindi",
+"language": "English",
 "quality": "SD",
-"playurl": "http://52.140.103.165:7002/live/ipl2020.m3u8"
+"playurl": "http://aklivetv.com:8080/ipl3/tracks-v1a1/mono.m3u8"
 }
 ]}
